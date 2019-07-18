@@ -20,7 +20,7 @@ When you know the bases of git but sometimes you have problemes with it. This "c
 ## If you are the *the workshop facilitator*
 
 <details>
-  <summary>SPOIL SPOIL Click here, don't  yourself if you are attendant SPOIL SPOIL</summary>
+  <summary>SPOIL SPOIL Click here, don't spoil yourself if you are attendant SPOIL SPOIL</summary>
   
   ### As a facilitator, your role will be to accompany the teams during the 2h30 workshop.
 
