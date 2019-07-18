@@ -53,7 +53,7 @@ When you know the bases of git but sometimes you have problemes with it. This "c
   If the team is doing well, introduce a new rule after 20 minutes.
 
   **READ**
-  *You must write a 4th cover in another file*
+  *You must write a back cover in another file*
   
   Take notes on what went wrong.
   
