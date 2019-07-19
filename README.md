@@ -8,7 +8,8 @@ When you know the bases of git but sometimes you have problemes with it. This "c
 
 | Duration        |                                                                                      2h30                                                                                      |
 |-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Max participant |                                                                             Team of 4, max 12 people                                                                                             |
+| Supplies needed |                                                              - (optional) Story Cubes - video projector - internet                                                             |
+| Max participant |                                                                            Team of 4, max 12 people                                                                            |
 | Required skills | The objective of this workshop is to sharpen the use of git in teams in order to limit the everyday problems that can be encountered with Git (interdependence, conflicts,...) |
 
 ## If you are a *kata participant*, follow these instructions
