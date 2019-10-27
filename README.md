@@ -4,7 +4,7 @@
 ![stars](https://img.shields.io/github/stars/Slashgear/git-kata.svg?style=social)
 ![fork me](https://img.shields.io/github/forks/Slashgear/git-kata.svg?style=social)
 
-When you know the bases of git but sometimes you have problemes with it. This "code kata" could help you to deal with git problems
+When you know the bases of git but sometimes you have problems with it. This "code kata" could help you to deal with git problems
 
 | Duration        |                                                                                      2h30                                                                                      |
 |-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
